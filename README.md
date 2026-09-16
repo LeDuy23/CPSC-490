@@ -9,9 +9,10 @@
 | Name | GitHub | Role | Leader |
 |---|---|---|---|
 | 〈Last, First〉 | @LeDuy23 | 〈e.g. backend, docs lead〉 | 〈✅ if leader〉 |
-| 〈…〉 | @〈…〉 | 〈…〉 | |
-| 〈…〉 | @〈…〉 | 〈…〉 | |
-| 〈…〉 | @〈…〉 | 〈…〉 | |
+| 〈Last, First〉 | @ShahSalar | 〈e.g. backend, docs lead〉 | 〈✅ if leader〉 |
+| 〈Last, First〉 | @Depalomo | 〈e.g. backend, docs lead〉 | 〈✅ if leader〉 |
+| 〈Last, First〉 | @big5teppa | 〈e.g. backend, docs lead〉 | 〈✅ if leader〉 |
+| 〈Last, First〉 | @BradleyB30 | 〈e.g. backend, docs lead〉 | 〈✅ if leader〉 |
 
 **Contact person:** 〈Name〉 — 〈email〉
 
