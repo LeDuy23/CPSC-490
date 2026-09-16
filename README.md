@@ -8,11 +8,11 @@
 
 | Name | GitHub | Role | Leader |
 |---|---|---|---|
-| 〈Last, First〉 | @LeDuy23 | 〈e.g. backend, docs lead〉 | 〈✅ if leader〉 |
-| 〈Last, First〉 | @ShahSalar | 〈e.g. backend, docs lead〉 | 〈✅ if leader〉 |
-| 〈Last, First〉 | @Depalomo | 〈e.g. backend, docs lead〉 | 〈✅ if leader〉 |
-| 〈Last, First〉 | @big5teppa | 〈e.g. backend, docs lead〉 | 〈✅ if leader〉 |
-| 〈Last, First〉 | @BradleyB30 | 〈e.g. backend, docs lead〉 | 〈✅ if leader〉 |
+| 〈Le, Duy〉 | @LeDuy23 | 〈e.g. backend, docs lead〉 | 〈leader〉 |
+| 〈Last, Sepher〉 | @ShahSalar | 〈e.g. backend, docs lead〉 | 
+| 〈Last, Damon〉 | @Depalomo | 〈e.g. backend, docs lead〉 | 
+| 〈Last, Richard〉 | @big5teppa | 〈e.g. backend, docs lead〉 | 
+| 〈Botros, Bradley〉 | @BradleyB30 | 〈e.g. backend, docs lead〉 | 
 
 **Contact person:** 〈Name〉 — 〈email〉
 
