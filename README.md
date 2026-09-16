@@ -18,7 +18,7 @@
 ## Links
 
 - **Proposal:** [`proposal/proposal.md`](proposal/proposal.md)
-- **Project board:** 〈paste your Projects board URL〉
+- **Project board:** https://github.com/users/LeDuy23/projects/2
 - **Specifications:** [`docs/specs/`](docs/specs/) · **Designs:** [`docs/design/`](docs/design/)
 - **Prototype:** [`prototype/`](prototype/) — run instructions in its README
 - **Sprint reviews:** [`docs/sprint-reviews/`](docs/sprint-reviews/)
